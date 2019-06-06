@@ -9,7 +9,7 @@ Downloads payload to TEMP directory and executes payload to bypass windows smart
 
 
 # Medium Script:
-The medium option only delivers/executes payload, creates a scheduled task named "WindowsDefender" to run payload at login for persistence, disabled UAC and injects/creates Command Prompt and Microsoft Edge shortcuts with payload path.
+The medium option only delivers/executes payload, creates a scheduled task named "WindowsDefender" to run payload at login for persistence, disables UAC and injects/creates Command Prompt and Microsoft Edge shortcuts with payload path.
 
 # Light Script:
 
